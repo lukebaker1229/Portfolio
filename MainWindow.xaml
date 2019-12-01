@@ -1,0 +1,43 @@
+﻿<Window x:Class="DateNightScenario.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DateNightScenario"
+        mc:Ignorable="d"
+        Title="Programming Concepts A: Date Night" Height="330" Width="440" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="2"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0" Margin="5">
+            <!-- Start Harry's date night buttons -->
+            <Button x:Name="newHarryAndSallyDateButton" Content="New Harry and Sally date" Click="newHarryAndSallyDateButton_Click"/>
+            <Button x:Name="harryPrepareForDateButton" Content="Harry, prepare for date" Click="harryPrepareForDateButton_Click"/>
+            <!-- End Harry's date night buttons -->
+            <StackPanel.Resources>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Margin" Value="3"/>
+                </Style>
+            </StackPanel.Resources>
+        </StackPanel>
+        <Separator Grid.Column="1">
+            <Separator.LayoutTransform>
+                <RotateTransform Angle="90"/>
+            </Separator.LayoutTransform>
+        </Separator>
+        <StackPanel Grid.Column="2" Margin="5">
+            <!-- Start Kayla's date night buttons -->
+            <Button x:Name="newKaylaAndRyanDateButton" Content="New Kayla and Ryan date" Click="newKaylaAndRyanDateButton_Click"/>
+            <Button x:Name="kaylaPrepareForDateButton" Content="Kayla, prepare for date" Click="kaylaPrepareForDateButton_Click"/>
+            <!-- End Kayla's date night buttons -->
+            <StackPanel.Resources>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Margin" Value="3"/>
+                </Style>
+            </StackPanel.Resources>
+        </StackPanel>
+    </Grid>
+</Window>
