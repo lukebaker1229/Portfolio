@@ -1,0 +1,30 @@
+﻿<Window x:Class="FirstCSharpApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FirstCSharpApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel HorizontalAlignment="Left" Height="100" Margin="10,10,0,0" VerticalAlignment="Top" Width="100">
+            <TextBox x:Name="row1col1" Height="23" TextWrapping="Wrap" Text="TextBox"/>
+            <TextBox x:Name="row2col1" Height="23" TextWrapping="Wrap" Text="TextBox"/>
+            <TextBox x:Name="row3col1" Height="23" TextWrapping="Wrap" Text="TextBox"/>
+            <TextBox x:Name="row4col1" Height="23" TextWrapping="Wrap" Text="TextBox"/>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Left" Height="100" Margin="115,10,0,0" VerticalAlignment="Top" Width="100">
+            <TextBox x:Name="row1col2" Height="23" TextWrapping="Wrap" Text="TextBox"/>
+            <TextBox x:Name="row2col2" Height="23" TextWrapping="Wrap" Text="TextBox"/>
+            <TextBox x:Name="row3col2" Height="23" TextWrapping="Wrap" Text="TextBox"/>
+            <TextBox x:Name="row4col2" Height="23" TextWrapping="Wrap" Text="TextBox"/>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Left" Height="100" Margin="220,10,0,0" VerticalAlignment="Top" Width="100">
+            <TextBox x:Name="row1col3" Height="23" TextWrapping="Wrap" Text="TextBox"/>
+            <TextBox x:Name="row2col3" Height="23" TextWrapping="Wrap" Text="TextBox"/>
+            <TextBox x:Name="row3col3" Height="23" TextWrapping="Wrap" Text="TextBox"/>
+            <TextBox x:Name="row4col3" Height="23" TextWrapping="Wrap" Text="TextBox"/>
+        </StackPanel>
+
+    </Grid>
+</Window>

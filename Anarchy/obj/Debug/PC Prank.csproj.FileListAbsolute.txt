@@ -1,0 +1,7 @@
+C:\Users\lukebaker\Dropbox\C# FUN\PC Prank\bin\Debug\PC Prank.exe.config
+C:\Users\lukebaker\Dropbox\C# FUN\PC Prank\bin\Debug\PC Prank.exe
+C:\Users\lukebaker\Dropbox\C# FUN\PC Prank\bin\Debug\PC Prank.pdb
+C:\Users\lukebaker\Dropbox\C# FUN\PC Prank\obj\Debug\PC Prank.csprojAssemblyReference.cache
+C:\Users\lukebaker\Dropbox\C# FUN\PC Prank\obj\Debug\PC Prank.csproj.CoreCompileInputs.cache
+C:\Users\lukebaker\Dropbox\C# FUN\PC Prank\obj\Debug\PC Prank.exe
+C:\Users\lukebaker\Dropbox\C# FUN\PC Prank\obj\Debug\PC Prank.pdb

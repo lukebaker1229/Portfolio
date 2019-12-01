@@ -1,0 +1,15 @@
+C:\Users\180012793\Dropbox\Schoolwork\ITDDF\FirstCSharpApp\FirstCSharpApp\obj\Debug\FirstCSharpApp.csprojAssemblyReference.cache
+C:\Users\180012793\Dropbox\Schoolwork\ITDDF\FirstCSharpApp\FirstCSharpApp\obj\Debug\MainWindow.g.cs
+C:\Users\180012793\Dropbox\Schoolwork\ITDDF\FirstCSharpApp\FirstCSharpApp\obj\Debug\App.g.cs
+C:\Users\180012793\Dropbox\Schoolwork\ITDDF\FirstCSharpApp\FirstCSharpApp\obj\Debug\FirstCSharpApp_MarkupCompile.cache
+C:\Users\180012793\Dropbox\Schoolwork\ITDDF\FirstCSharpApp\FirstCSharpApp\obj\Debug\FirstCSharpApp_MarkupCompile.lref
+C:\Users\180012793\Dropbox\Schoolwork\ITDDF\FirstCSharpApp\FirstCSharpApp\bin\Debug\FirstCSharpApp.exe.config
+C:\Users\180012793\Dropbox\Schoolwork\ITDDF\FirstCSharpApp\FirstCSharpApp\bin\Debug\FirstCSharpApp.exe
+C:\Users\180012793\Dropbox\Schoolwork\ITDDF\FirstCSharpApp\FirstCSharpApp\bin\Debug\FirstCSharpApp.pdb
+C:\Users\180012793\Dropbox\Schoolwork\ITDDF\FirstCSharpApp\FirstCSharpApp\obj\Debug\MainWindow.baml
+C:\Users\180012793\Dropbox\Schoolwork\ITDDF\FirstCSharpApp\FirstCSharpApp\obj\Debug\FirstCSharpApp.g.resources
+C:\Users\180012793\Dropbox\Schoolwork\ITDDF\FirstCSharpApp\FirstCSharpApp\obj\Debug\FirstCSharpApp.Properties.Resources.resources
+C:\Users\180012793\Dropbox\Schoolwork\ITDDF\FirstCSharpApp\FirstCSharpApp\obj\Debug\FirstCSharpApp.csproj.GenerateResource.cache
+C:\Users\180012793\Dropbox\Schoolwork\ITDDF\FirstCSharpApp\FirstCSharpApp\obj\Debug\FirstCSharpApp.csproj.CoreCompileInputs.cache
+C:\Users\180012793\Dropbox\Schoolwork\ITDDF\FirstCSharpApp\FirstCSharpApp\obj\Debug\FirstCSharpApp.exe
+C:\Users\180012793\Dropbox\Schoolwork\ITDDF\FirstCSharpApp\FirstCSharpApp\obj\Debug\FirstCSharpApp.pdb
